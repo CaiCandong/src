@@ -4,4 +4,4 @@
 <img src="./src/img/abc.jpg">
 
 ---
-<img src="./abc.jpg">
+<img src="http://localhost:3000/caicandong/src/abc.jpg">
