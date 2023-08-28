@@ -4,4 +4,8 @@
 <img src="./src/img/abc.jpg">
 
 ---
-<img src="http://localhost:3000/caicandong/src/abc.jpg">
+# For local Gitea
+<img src="http://localhost:3000/caicandong/src/src/abc.jpg">
+
+# For Github 
+<img src="https://github.com/caicandong/src/src/abc.jpg">
